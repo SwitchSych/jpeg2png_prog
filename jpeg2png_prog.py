@@ -1,9 +1,3 @@
-"""This program is designed to convert jpeg files to png, to compress the amount of memory output.
-exe file is placed in the folder where the replacement should take place, after which the conversion
-process starts and goes through,
-after which the file is deleted from the folder
-"""
-
 
 import os
 import glob
